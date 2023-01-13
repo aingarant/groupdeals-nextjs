@@ -5,7 +5,7 @@ const Add = () => {
   const [name, setName] = useState('')
   const [email, setEmail] = useState('')
   const [service, setService] = useState('YouTube')
-  const [group, setGroup] = useState('youtube04@udns.ca')
+  const [group, setGroup] = useState('youtube17@udns.ca')
   const [message, setMessage] = useState('')
 
   const handleForm = async (e) => {
